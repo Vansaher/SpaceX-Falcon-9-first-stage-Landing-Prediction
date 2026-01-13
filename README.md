@@ -29,7 +29,7 @@ pip install pandas dash plotly
 ```
 3. **Run the app**
 ```bash
-python spacex_dash_app.py
+python app.py
 ```
 - The dashboard will be available at http://127.0.0.1:8050/ in your web browser.
 
