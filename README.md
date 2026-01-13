@@ -17,6 +17,9 @@ This project was developed as part of the SpaceX Falcon 9 First Stage Landing Pr
 | **Success Pie Chart** | Visualizes success distribution across all sites or success/fail ratio for one site. |
 | **Scatter Plot** | Shows if heavier payloads correlate with higher failure rates and highlights booster performance. |
 
+## 📊 Dashboard Demo
+https://f89ba3a8-a261-4854-996d-022b38af957c.plotly.app
+
 ## 🛠️ Installation & Usage
 1. **Clone the repository:**
 ```bash
